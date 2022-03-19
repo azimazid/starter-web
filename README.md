@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
+Do what you have to
