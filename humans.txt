@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    Azim Azidin	azimazid@gmail.com	@azimazid
 # THANKS
 
     <name>
